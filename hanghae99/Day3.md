@@ -59,6 +59,7 @@ function edit(myurl,mytitle,mycomment) {
 --> 문제점: 만약 'title'값과 'comment'의 내용이 같은 경우, 즉 id값이 같아지면서 Unique해야하는 id값이 2개가 되어버렸다. 이 때문에 수정이 안되었다. 잘못된 코드로 인한 기능 구현 실패.
 
 
+<hr>
 
 
 ### 시도 2.
