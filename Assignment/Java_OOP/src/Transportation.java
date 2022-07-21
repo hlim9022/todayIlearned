@@ -30,12 +30,12 @@ public class Transportation {
         this.num = num;
     }
 
-    public void takeGas(int gas) {
+    public void takeGas(int gas) { // setGas
         this.gas += gas;
     }
 
 
-    public int checkGas() {
+    public int checkGas() { // getGas
         return this.gas;
     }
 
